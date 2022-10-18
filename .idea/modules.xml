@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lessons/intro/intro.iml" filepath="$PROJECT_DIR$/lessons/intro/intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java22.iml" filepath="$PROJECT_DIR$/java22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lessons.iml" filepath="$PROJECT_DIR$/lessons/lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/oop1/oop1.iml" filepath="$PROJECT_DIR$/lessons/oop1/oop1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/oopWithNLayeredApp/oopWithNLayeredApp.iml" filepath="$PROJECT_DIR$/lessons/oopWithNLayeredApp/oopWithNLayeredApp.iml" />
+    </modules>
+  </component>
+</project>
